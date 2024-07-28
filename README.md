@@ -22,10 +22,7 @@ recognition algorithm is used to train an image category classifier. The accurac
 <li>Keras</li>
 <li>Anaconda</li>
 <li>Jupyter Notebook</li>
-<li>MySql</li>
-<li>Flask</li>
-<li>PHP</li>
-<li>Flutter</li>
+
 
 
 ### Classes of Vegetables and Fruits
